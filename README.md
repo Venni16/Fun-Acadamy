@@ -1,10 +1,10 @@
-FUN Academy - School website
+## FUN Academy - School website
 
-Overview
+# Overview
 
 This is a simple yet elegant school website with user authentication, built with Express.js (Node.js backend) and EJS templates (frontend). The system provides secure user login/signup functionality and a responsive dashboard for authenticated users.
 
-Key Features
+# Key Features
 
 -User Authentication: Secure login/logout functionality with session management
 
@@ -18,9 +18,9 @@ Key Features
 
 -Animated UI: GSAP animations for enhanced user experience
 
-System Components
+## System Components
 
-Backend (Express.js)
+# Backend (Express.js)
 
 -User authentication with session management
 
@@ -30,7 +30,7 @@ Backend (Express.js)
 
 -Route handling for all application endpoints
 
-Frontend (EJS Templates)
+# Frontend (EJS Templates)
 
 -Login page with form validation
 
@@ -46,15 +46,15 @@ Frontend (EJS Templates)
 
 -Responsive design
 
-Installation
+## Installation
 
-Prerequisites:
+# Prerequisites:
 
 -Node.js (v14+)
 
 -npm 
 
-Setup Steps:
+## Setup Steps:
 
 1.Clone the repository:
 git clone https://github.com/yourusername/fun-academy.git
